@@ -1,0 +1,22 @@
+{
+  "name": "jest-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalize.js",
+  "scripts": {
+    "test": "jest" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmooree30/Jest-Tests.git"
+  },
+  "author": "Jacob Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmooree30/Jest-Tests/issues"
+  },
+  "homepage": "https://github.com/jmooree30/Jest-Tests#readme",
+  "devDependencies": {
+    "jest": "^22.2.2"
+  }
+}
